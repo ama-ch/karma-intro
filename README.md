@@ -5,7 +5,7 @@ Example of Karma workflow with [Travis CI](https://travis-ci.org/) and [Coverall
 
 ## Test framework
 
-[Mocha](http://visionmedia.github.io/mocha/) and [expect.js](https://github.com/LearnBoost/expect.js/).
+[Mocha](http://mochajs.org/) and [expect.js](https://github.com/LearnBoost/expect.js/).
 
 ## Installation
 
